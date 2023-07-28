@@ -1,13 +1,5 @@
 # Key_Ranking
 
-to 
-markdown_github
- Standalone
- Embed resources
- Citeproc
- TOC
- Number sections
-
 
 **Evaluation Metric.** We utilize ***key rank*** (a.k.a. *guessing
 entropy* ) as the metric to measure the attack performance of
