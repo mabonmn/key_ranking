@@ -8,16 +8,7 @@ markdown_github
  TOC
  Number sections
 
-Plain math
 
-Auto wrap
-
-No highlighting
-permalink
-download example as JSON
-Not rendering RawInline (Format "latex") "\\cite{PPMWB22}"
-Could not convert TeX math r_{i}[k^{*}_{g}] = s_{i}[j], \quad \textnormal{ if } \quad \mathtt{HW}(\varphi(m'_{i}, k^{*}_{g})) == j, rendering as TeX: , \quad \textnormal{ if } \quad \mathtt{ ^ unexpected control sequence \textnormal expecting "%", "\\label", "\\tag", "\\nonumber" or whitespace
-Could not convert TeX math r[k^{*}_{j}] = \sum_{i=1}^{N'} r_{i}[k^{*}_{j}], \textnormal{ \textit{for} $1\leq{j}\leq256$}, rendering as TeX: }_{j}], \textnormal{ \textit{for} $1\l ^ unexpected control sequence \textnormal expecting "%", "\\label", "\\tag", "\\nonumber" or whitespace
 **Evaluation Metric.** We utilize ***key rank*** (a.k.a. *guessing
 entropy* ) as the metric to measure the attack performance of
 side-channel attacks. Specifically, given a power trace
